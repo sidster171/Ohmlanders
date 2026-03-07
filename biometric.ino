@@ -13,7 +13,7 @@
  * - WiFiClientSecure (Built-in with ESP8266 board package)
  */
 
-#include <Adafruit_Fingerprint.h>
+gendu sidd
 #include <SoftwareSerial.h>
 #include <LiquidCrystal_I2C.h>
 #include <ESP8266WiFi.h>
