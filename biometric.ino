@@ -19,7 +19,7 @@ gendu siddddddd
 #include <ESP8266WiFi.h>
 #include <ESP8266HTTPClient.h>
 #include <WiFiClient.h>
-#include <WiFiClientSecure.h>  // ADDED for HTTPS support
+#include <WiFiClientSecure.h> 
 
 // ========== PIN CONFIGURATION ==========
 #define FINGER_RX 14 // D5 - Connect to R307 TX
