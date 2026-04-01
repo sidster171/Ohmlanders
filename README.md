@@ -1,2 +1,2 @@
-# ethos collective 
+# ethos collective Siddharth 
 ### project description
