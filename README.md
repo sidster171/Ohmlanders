@@ -1,2 +1,2 @@
-# Ohmlanders
+# ethos collective 
 ### project description
